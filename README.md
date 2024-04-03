@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## Introduction
+안녕하세요
+
+## Career
+영남대학교 재학생
+
 <!--
 **ehdrms3535/ehdrms3535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

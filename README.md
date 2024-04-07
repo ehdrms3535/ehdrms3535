@@ -1,10 +1,14 @@
 ### Hi there 👋
 
 ## Introduction
-안녕하세요
+영남대학교 재학중인 2학년 학생입니다.
+주로 c나 python을 사용하여 코딩을 합니다.
+
 
 ## Career
 영남대학교 재학생
+해커톤 대회 입상
+코딩 대회 다수 참가
 
 <!--
 **ehdrms3535/ehdrms3535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,8 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 ## Introduction
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehdrms3535)](https://github.com/anuraghazra/github-readme-stats)
-
+![egdrms3535's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehdrms3535&show_icons=true&theme=radical)
 ## Career
 - 영남대학교 재학생
 - 해커톤 대회 입상

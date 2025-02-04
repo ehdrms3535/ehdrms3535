@@ -1,32 +1,34 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-## Introduction
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehdrms3535&layout=compact)
+# 👋 Introduction  
+안녕하세요! 저는 **AI와 게임 개발**을 연구하는 개발자입니다.  
+창의적이고 혁신적인 기술을 활용하여 **고도화된 인공지능과 게임을 결합**하는 것이 목표입니다.
 
-## Career
-- 영남대학교 재학생
-- 해커톤 대회 입상
-- 코딩 대회 다수 참가
+---
 
-## Interest // goal
-- 인공지능과 게임개발에 관심이 있습니다.
-- 최종 목표는 고도화된 인공지능과 게임을 결합하는 것입니다.
+## 📊 GitHub Stats  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehdrms3535&layout=compact&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![ehdrms3535's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehdrms3535)](https://github.com/anuraghazra/github-readme-stats)
+[![ehdrms3535's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehdrms3535&show_icons=true&theme=default&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)  
+
+---
+
+## 🏆 Career  
+- **영남대학교** 재학생  
+- **해커톤 대회 입상**  
+- **코딩 대회 다수 참가**  
+
+---
+
+## 🎯 Interest & Goals  
+- **AI 개발 & 게임 개발**  
+- **딥러닝과 게임 엔진(Unity, Unreal)의 융합**  
+- **고도화된 AI 시스템을 활용한 차세대 게임 개발**  
+
+---
+
+## 🔗 Contact & More  
+💡 **깃허브**: [ehdrms3535](https://github.com/ehdrms3535)  
+📫 **이메일**: ehdrms3535@naver.com
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
-
-
-<!--
-**ehdrms3535/ehdrms3535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

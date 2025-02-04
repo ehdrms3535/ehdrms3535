@@ -12,6 +12,11 @@
 - 인공지능과 게임개발에 관심이 있습니다.
 - 최종 목표는 고도화된 인공지능과 게임을 결합하는 것입니다.
 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+
+
 <!--
 **ehdrms3535/ehdrms3535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

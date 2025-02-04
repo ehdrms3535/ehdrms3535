@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 ## Introduction
-![egdrms3535's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehdrms3535&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehdrms3535&layout=compact)
+
 ## Career
 - 영남대학교 재학생
 - 해커톤 대회 입상
@@ -11,7 +12,7 @@
 - 인공지능과 게임개발에 관심이 있습니다.
 - 최종 목표는 고도화된 인공지능과 게임을 결합하는 것입니다.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehdrms3535)](https://github.com/anuraghazra/github-readme-stats)
+[![ehdrms3535's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehdrms3535)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
 

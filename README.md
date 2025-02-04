@@ -1,7 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+
 ## Introduction
-- 영남대학교 컴퓨터공학과 2학년 학생입니다.
-- 주로 c나 python을 사용하여 코딩을 합니다.
-- 코딩은 약 2년정도 하였습니다.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 아이디)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Career
 - 영남대학교 재학생
@@ -12,8 +12,7 @@
 - 인공지능과 게임개발에 관심이 있습니다.
 - 최종 목표는 고도화된 인공지능과 게임을 결합하는 것입니다.
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
 

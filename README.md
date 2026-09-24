@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dong Geun Kim
+# Hi, I'm Dong Geun Kim
 
 ### Backend Developer | Database & Cloud
 
@@ -35,9 +35,9 @@ PostgreSQL/MySQL 기반의 데이터베이스 설계 및 API 개발 프로젝트
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🏭 FEMS — Factory Energy Management System
+### FEMS — Factory Energy Management System
 
 **IoT 기반 냉동 공장 에너지 가시화 및 최적화 플랫폼**
 
@@ -51,7 +51,7 @@ PostgreSQL/MySQL 기반의 데이터베이스 설계 및 API 개발 프로젝트
 
 ---
 
-### 🏠 SGOP — Real Estate Analysis & Matching Service
+### SGOP — Real Estate Analysis & Matching Service
 
 **부동산 시세 분석 및 사용자 조건 기반 매칭 웹 서비스**
 
@@ -64,7 +64,7 @@ PostgreSQL/MySQL 기반의 데이터베이스 설계 및 API 개발 프로젝트
 
 ---
 
-### 🔐 OSSVerify
+### OSSVerify
 
 **오픈소스 개발자 활동 검증 및 디지털 자격증명 플랫폼**
 
@@ -79,7 +79,7 @@ PostgreSQL/MySQL 기반의 데이터베이스 설계 및 API 개발 프로젝트
 
 ---
 
-### 💼 DodoJob
+### DodoJob
 
 **사용자 맞춤형 구인·구직 Android 애플리케이션**
 
@@ -103,18 +103,10 @@ PostgreSQL/MySQL 기반의 데이터베이스 설계 및 API 개발 프로젝트
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID\&show_icons=true\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID\&layout=compact\&hide_border=true)
-
----
-
 ## 📫 Contact
 
 **Email**
 [your-email@example.com](mailto:your-email@example.com)
 
 **GitHub**
-github.com/YOUR_GITHUB_ID
+github.com/ehdrms3535

@@ -106,7 +106,7 @@ PostgreSQL/MySQL 기반의 데이터베이스 설계 및 API 개발 프로젝트
 ## 📫 Contact
 
 **Email**
-[your-email@example.com](mailto:your-email@example.com)
+[k4248720@gmail.com](mailto:k4248720@gmail.com)
 
 **GitHub**
 github.com/ehdrms3535
